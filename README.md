@@ -1,1 +1,3 @@
-# junior-hacker-recruitment-project
+# Junior Hacker Recruitment Project
+
+Welcome to the Junior Hacker Recruitment Project at BillTech! In this project, you'll demonstrate your skills in TypeScript, Node.js, SQL, and PostgreSQL. You'll also get a chance to engage in web scraping and reverse engineering. Your goal is to build a mini application that scrapes invoice data from a mock financial services website and stores it in a PostgreSQL database. The project is divided into tasks on a Kanban board. Let's get started and show us what you've got!
