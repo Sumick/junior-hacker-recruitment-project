@@ -1,11 +1,9 @@
+// This file will contain the web scraping logic using Puppeteer.
+
 import puppeteer from 'puppeteer';
 
 async function scrapeInvoices() {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  await page.goto('http://example.com');
-  // Add scraping logic here
-  await browser.close();
+  // Initial setup for Puppeteer and scraping logic will go here.
 }
 
 scrapeInvoices();
